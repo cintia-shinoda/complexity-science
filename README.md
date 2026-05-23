@@ -17,3 +17,10 @@ complexity-science/
 └── README.md
 
 ```
+
+
+### Agent-Based Modeling (ABM)
+|  | # | Data |  |  |  |
+|---|---|---|---|---|---|
+|  | 1 |  | Agent-Based Models with Python: An Introduction to Mesa | Santa Fe Institute | ![0%](https://geps.dev/progress/0) |
+|  | 2 | 18/05/2026 - | Introduction to Agent-Based Modeling | Santa Fe Institute | ![0%](https://geps.dev/progress/0) |
